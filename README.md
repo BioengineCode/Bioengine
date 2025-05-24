@@ -1,2 +1,2 @@
 # Bioengine
-Code for developing the cryptocurrency Bioengine and the toke BIOENG 
+Code for developing the cryptocurrency Bioengine and the token BIOENG 
